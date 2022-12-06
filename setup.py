@@ -14,7 +14,7 @@ REQUIREMENTS = [
     'setuptools==50.3.2',
     'sympy>=1.6',
     'tox>=3.13.2',
-    'web3>=5.0.0,<6.0.0',
+    'web3>=5.0.0',
 ]
 
 setup(
